@@ -1,3 +1,8 @@
 This is my second File for git
 This edit for second file
+<<<<<<< HEAD
 This is third change
+=======
+Echen Change
+>>>>>>> a9a99e0aa240fedbaa2a4fbc5065abc364ca59bc
+Last Change

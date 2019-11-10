@@ -1,3 +1,8 @@
 This is my third file for git
 This is third edit for git
+<<<<<<< HEAD
 This is Third Change
+=======
+This change from echen
+>>>>>>> a9a99e0aa240fedbaa2a4fbc5065abc364ca59bc
+This is Last Change
